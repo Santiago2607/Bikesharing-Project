@@ -40,4 +40,4 @@ In this visualization, we show the birthdate and gender of riders so we can dete
 2. ![image](https://user-images.githubusercontent.com/113261292/213881535-28560ddd-3535-484e-86d4-d9253dfa6375.png)
 This visualization, on the other hand, can be used to show investors which bikes have been used the most so they know when is almost the time to replace or repair them. 
 
-If you want to see my Tableau dashboard, click [Here](https://public.tableau.com/views/BikesharingProject_16746140099490/TripsbyWeekdayforEachHour?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+If you want to see my Tableau dashboard, click [Here](https://public.tableau.com/shared/HP242HQ3Z?:display_count=n&:origin=viz_share_link)
